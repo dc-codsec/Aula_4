@@ -7,7 +7,7 @@ username, password = 'usuario', 'senha'
 usuario = []
 usuario.append(input('Digite seu login: '))
 usuario.append(input('Digite sua senha: '))
-usuario.append(int(input('1-Admin/0-Comum')))
+usuario.append(int(input('1-Admin/0-Comum'))) #simular retorno de alguma rotina
 
 print(usuario)
 if username == usuario[0] and usuario[1] == password:
