@@ -1,4 +1,4 @@
-username, password = 'usuario', 'fiap'
+username, password = 'usuario', 'senha'
 
 # usuario = input('Digite seu login: ')
 # senha = input('Digite sua senha: ')
