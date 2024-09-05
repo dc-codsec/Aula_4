@@ -1,6 +1,6 @@
 msg = """
     -----------------------
-    --EURO TRUCK SIMULATOR-
+    --Super Simulator------
     -----------------------
     Menu
     1-Novo jogo
